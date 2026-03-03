@@ -25,7 +25,7 @@ ambiente virtual como `.venv`).
 
 ## Uso
 
-1. Abra o projeto no VS Code.
+1. Abra o projeto no VS Code ou Jupyter Lab.
 2. Abra qualquer um dos arquivos `exercicio*.ipynb` clicando nos links acima.
 3. Execute as células para visualizar os resultados e editar se desejar.
 
